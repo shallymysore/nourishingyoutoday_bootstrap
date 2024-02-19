@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nourishingyoutoday_bootstrap/static/css/main.64c23366.css",
+    "main.css": "/nourishingyoutoday_bootstrap/static/css/main.645c35cc.css",
     "main.js": "/nourishingyoutoday_bootstrap/static/js/main.f1b5b20b.js",
     "static/media/service2.jpg": "/nourishingyoutoday_bootstrap/static/media/service2.6d7edd18375e50259e77.jpg",
     "static/media/service1.jpg": "/nourishingyoutoday_bootstrap/static/media/service1.0e38dadcc746e10feca1.jpg",
@@ -16,11 +16,11 @@
     "index.html": "/nourishingyoutoday_bootstrap/index.html",
     "static/media/nav-icon1.svg": "/nourishingyoutoday_bootstrap/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/nourishingyoutoday_bootstrap/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.64c23366.css.map": "/nourishingyoutoday_bootstrap/static/css/main.64c23366.css.map",
+    "main.645c35cc.css.map": "/nourishingyoutoday_bootstrap/static/css/main.645c35cc.css.map",
     "main.f1b5b20b.js.map": "/nourishingyoutoday_bootstrap/static/js/main.f1b5b20b.js.map"
   },
   "entrypoints": [
-    "static/css/main.64c23366.css",
+    "static/css/main.645c35cc.css",
     "static/js/main.f1b5b20b.js"
   ]
 }
