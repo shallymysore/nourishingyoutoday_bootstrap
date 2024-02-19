@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nourishingyoutoday_bootstrap/static/css/main.1c44f30f.css",
-    "main.js": "/nourishingyoutoday_bootstrap/static/js/main.2168a594.js",
+    "main.css": "/nourishingyoutoday_bootstrap/static/css/main.28442da8.css",
+    "main.js": "/nourishingyoutoday_bootstrap/static/js/main.aba9f707.js",
     "static/media/service2.jpg": "/nourishingyoutoday_bootstrap/static/media/service2.6d7edd18375e50259e77.jpg",
     "static/media/service1.jpg": "/nourishingyoutoday_bootstrap/static/media/service1.0e38dadcc746e10feca1.jpg",
     "static/media/image3.jpg": "/nourishingyoutoday_bootstrap/static/media/image3.15f71da9f75452aece14.jpg",
@@ -16,11 +16,11 @@
     "index.html": "/nourishingyoutoday_bootstrap/index.html",
     "static/media/nav-icon1.svg": "/nourishingyoutoday_bootstrap/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/nourishingyoutoday_bootstrap/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.1c44f30f.css.map": "/nourishingyoutoday_bootstrap/static/css/main.1c44f30f.css.map",
-    "main.2168a594.js.map": "/nourishingyoutoday_bootstrap/static/js/main.2168a594.js.map"
+    "main.28442da8.css.map": "/nourishingyoutoday_bootstrap/static/css/main.28442da8.css.map",
+    "main.aba9f707.js.map": "/nourishingyoutoday_bootstrap/static/js/main.aba9f707.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c44f30f.css",
-    "static/js/main.2168a594.js"
+    "static/css/main.28442da8.css",
+    "static/js/main.aba9f707.js"
   ]
 }
