@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nourishingyoutoday_bootstrap/static/css/main.3c8a9434.css",
-    "main.js": "/nourishingyoutoday_bootstrap/static/js/main.339b98e7.js",
+    "main.css": "/nourishingyoutoday_bootstrap/static/css/main.59d496c3.css",
+    "main.js": "/nourishingyoutoday_bootstrap/static/js/main.90f40cde.js",
     "static/media/berries-1846085.jpg": "/nourishingyoutoday_bootstrap/static/media/berries-1846085.490600539d4cf4217c79.jpg",
     "static/media/service2.jpg": "/nourishingyoutoday_bootstrap/static/media/service2.6d7edd18375e50259e77.jpg",
     "static/media/service1.jpg": "/nourishingyoutoday_bootstrap/static/media/service1.0e38dadcc746e10feca1.jpg",
@@ -10,17 +10,17 @@
     "static/media/CentraNo2-Medium.ttf": "/nourishingyoutoday_bootstrap/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/nourishingyoutoday_bootstrap/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/nourishingyoutoday_bootstrap/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/logo-no-background.svg": "/nourishingyoutoday_bootstrap/static/media/logo-no-background.e49d9c35917ffd615d4d5d54072275e0.svg",
+    "static/media/logo-no-background.svg": "/nourishingyoutoday_bootstrap/static/media/logo-no-background.49ef80dd9b30842da00bbd910d1a9fff.svg",
     "static/media/contact-img.svg": "/nourishingyoutoday_bootstrap/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/nav-icon3.svg": "/nourishingyoutoday_bootstrap/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/nourishingyoutoday_bootstrap/index.html",
     "static/media/nav-icon1.svg": "/nourishingyoutoday_bootstrap/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/nourishingyoutoday_bootstrap/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.3c8a9434.css.map": "/nourishingyoutoday_bootstrap/static/css/main.3c8a9434.css.map",
-    "main.339b98e7.js.map": "/nourishingyoutoday_bootstrap/static/js/main.339b98e7.js.map"
+    "main.59d496c3.css.map": "/nourishingyoutoday_bootstrap/static/css/main.59d496c3.css.map",
+    "main.90f40cde.js.map": "/nourishingyoutoday_bootstrap/static/js/main.90f40cde.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c8a9434.css",
-    "static/js/main.339b98e7.js"
+    "static/css/main.59d496c3.css",
+    "static/js/main.90f40cde.js"
   ]
 }
