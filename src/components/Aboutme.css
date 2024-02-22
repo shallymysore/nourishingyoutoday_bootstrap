@@ -1,0 +1,108 @@
+.aboutme {
+    margin-top: 0;
+    padding: 200px 0 100px 0;
+    background: linear-gradient(90.21deg, #e3f6a7 -5.91%, #93d9f0 111.58%);
+  }
+  /*
+  .banner .tagline {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    padding: 8px 10px;
+    font-size: 20px;
+    margin-bottom: 16px;
+    display: inline-block;
+  }*/
+  .aboutme h1 {
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    line-height: 1;
+    margin-bottom: 20px;
+    display: block;
+    background: linear-gradient( 270deg, #f75353, #a809c5);
+    background-clip: text;
+    color: transparent;  
+  }
+  .aboutme p {
+    color: #B8B8B8;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    width: 96%;
+  }
+  /*
+  .banner button {
+    color: #b8b8b8;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 60px;
+    letter-spacing: 0.8px;
+    display: flex;
+    align-items: center;
+  }
+  .banner button svg {
+    font-size: 25px;
+    margin-left: 10px;
+    transition: 0.3s ease-in-out;
+    line-height: 1;
+  }
+  .banner button:hover svg {
+    margin-left: 25px;
+  }*/
+  .aboutme img {
+    animation: updown 3s linear infinite;
+  }
+  @keyframes updown {
+      0% {
+          transform: translateY(-20px);
+      }
+      50% {
+          transform: translateY(20px);
+      }
+      100% {
+          transform: translateY(-20px);
+      }
+  }
+  .txt-rotate > .wrap {
+    border-right: 0.08em solid #666;
+  }
+  /*
+  .boton a, .description a {
+    color:#B8B8B8;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+  }
+  .boton a:hover, .description a:hover {
+    color:#fff;
+  }
+
+  .boton {
+    background: transparent;
+    color: #3bd9d9;
+    font-weight: 400;
+    font-size: 24px;
+    text-transform: uppercase;
+    padding: 16px 36px;
+    border: 2px solid #3bd9d9;
+    border-radius: 32px;
+    transform: translate(0);
+    overflow: hidden;
+    cursor: pointer;
+  
+  }
+  .boton::before{
+    content: '';
+    position: absolute;
+    background: #3bd9d9;
+    width: 8px;
+    top:0;
+    bottom: 0;
+    left: -32px;
+    transform: rotate(-16deg);
+    filter: blur(6px);
+  }
+  .boton:hover::before{
+    left:calc(100% + 32px);
+    transition: 0.75s;
+  }*/

@@ -5,17 +5,20 @@ import { Services } from './components/Services';
 import { Contactus } from './components/Contactus';
 import { Footer } from './components/Footer';
 import './App.css';
-import {Routes,Route} from 'react-router-dom'
+import {Routes,Route, BrowserRouter as Router} from 'react-router-dom'
+import { Aboutme } from './components/Aboutme';
 
 function App() {
   return (
     <div className="App">
-      <NavBar />
-      <Body />
-      <Services/>
-      <Contactus/>
-      <Footer/>
-
+    <Router>
+    <NavBar />
+    <Body />
+    <Aboutme />
+    <Services/>
+    <Contactus/>
+    <Footer/>
+    </Router>
     </div>
   );
 }
