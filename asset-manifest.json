@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nourishingyoutoday_bootstrap/static/css/main.9ff480ff.css",
-    "main.js": "/nourishingyoutoday_bootstrap/static/js/main.dace3ab4.js",
+    "main.js": "/nourishingyoutoday_bootstrap/static/js/main.874520ae.js",
     "static/media/berries-1846085.jpg": "/nourishingyoutoday_bootstrap/static/media/berries-1846085.490600539d4cf4217c79.jpg",
     "static/media/drinking_healthy.png": "/nourishingyoutoday_bootstrap/static/media/drinking_healthy.565a3773d7b0ac531848.png",
     "static/media/weight_maintenance.png": "/nourishingyoutoday_bootstrap/static/media/weight_maintenance.d2084590be42ce03ad13.png",
@@ -19,10 +19,10 @@
     "static/media/nav-icon1.svg": "/nourishingyoutoday_bootstrap/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/nourishingyoutoday_bootstrap/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.9ff480ff.css.map": "/nourishingyoutoday_bootstrap/static/css/main.9ff480ff.css.map",
-    "main.dace3ab4.js.map": "/nourishingyoutoday_bootstrap/static/js/main.dace3ab4.js.map"
+    "main.874520ae.js.map": "/nourishingyoutoday_bootstrap/static/js/main.874520ae.js.map"
   },
   "entrypoints": [
     "static/css/main.9ff480ff.css",
-    "static/js/main.dace3ab4.js"
+    "static/js/main.874520ae.js"
   ]
 }
